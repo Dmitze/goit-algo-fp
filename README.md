@@ -186,19 +186,3 @@ python task7_monte_carlo.py
 ```
 
 ---
-
-## Структура проекту
-
-```
-goit-algo-fp/
-├── task1_linked_list.py
-├── task2_pythagoras_tree.py
-├── task3_dijkstra.py
-├── task4_heap_visualization.py
-├── task5_tree_traversal.py
-├── task6_algorithms.py
-├── task7_monte_carlo.py
-├── img/
-├── .gitignore
-└── README.md
-```
